@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+</head>
+<body>
+
+  <script type="text/javascript" src="/js/lib/mocha.js"></script>
+  <script type="text/javascript" src="/js/lib/chai.js"></script>
+  <script>mocha.setup('bdd');</script>
+  <script type="text/javascript" src="./bubble-sort.js"></script>
+  <script type="text/javascript" src="/test/bubble-sort.spec.js"></script>
+
+  <script>
+    var expect = chai.expect;
+    chai.should();
+    mocha.run();
+  </script>
+</body>
+</html>
