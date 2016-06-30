@@ -1,11 +1,27 @@
 {
   "name": "bubble-sort-assignment",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/als68/bubble-sort.git"
+  },
+  "bugs": {
+    "url": "https://github.com/als68/bubble-sort/issues"
+  },
+  "homepage": "https://github.com/als68/bubble-sort#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "description": ""
 }
