@@ -15,7 +15,6 @@
     "url": "https://github.com/als68/bubble-sort/issues"
   },
   "homepage": "https://github.com/als68/bubble-sort#readme",
-<<<<<<< HEAD
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^2.5.3"
@@ -25,11 +24,4 @@
   },
   "dependencies": {},
   "description": ""
-=======
-  "description": "",
-  "devDependencies": {
-    "chai": "^3.5.0",
-    "mocha": "^2.5.3"
-  }
->>>>>>> 31010b14df544e08f32e583a2333f1015785ef05
 }
